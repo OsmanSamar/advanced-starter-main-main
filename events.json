@@ -1,0 +1,167 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ignacio Doe",
+      "image": "https://global-uploads.webflow.com/5eecfecbe625d195e35b89f2/624bfb093da7d92733c001c0_Ignacio%20Villafruela%20Rodr%C3%ADguez.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jane Bennett",
+      "image": "https://global-uploads.webflow.com/5eecfecbe625d195e35b89f2/624bfb401d7131c760ca1c63_Elieska%20Lensink.jpg"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "createdBy": 1,
+      "title": "Trampoline party.",
+      "description": "Bounce around with your friends",
+      "image": "https://i.pinimg.com/736x/3d/2f/af/3d2faf4e3188d34a9fcdc00df59e77b0.jpg",
+      "categoryIds": [
+        2
+      ],
+      "location": "My back yard",
+      "startTime": "2023-03-10T10:00",
+      "endTime": "2023-03-10T10:00"
+    },
+    {
+      "id": 2,
+      "createdBy": 1,
+      "title": "Laser Tag mania",
+      "description": "Let's play laser tag!",
+      "image": "https://www.ctvnews.ca/polopoly_fs/1.5118552.1600965663!/httpImage/image.jpg_gen/derivatives/landscape_1020/image.jpg",
+      "categoryIds": [
+        2
+      ],
+      "location": "Blinded by the Lights Laser Tag, 15 Main St.",
+      "startTime": "2023-04-06T18:46",
+      "endTime": "2023-04-06T17:46"
+    },
+    {
+      "id": 3,
+      "createdBy": 2,
+      "title": "Badminton game",
+      "description": "Hit that shuttle!",
+      "image": "https://s3.eu-west-2.amazonaws.com/ws-activestirling/production/Badminton/_1200x630_crop_center-center_none/Badminton-3.jpg",
+      "categoryIds": [
+        1,
+        2
+      ],
+      "location": "The Park",
+      "startTime": "2023-03-15T12:00:00.000Z",
+      "endTime": "2023-03-15T13:30:00.000Z"
+    },
+    {
+      "id": 4,
+      "createdBy": 2,
+      "title": "Yoga",
+      "description": "It's a bit of a stretch.",
+      "image": "https://ymcasouthflorida.org/wp-content/uploads/2019/12/AA2I8910-scaled.jpg",
+      "categoryIds": [
+        3
+      ],
+      "location": "Shavasana Yoga School",
+      "startTime": "2023-03-09T06:00:00.000Z",
+      "endTime": "2023-03-09T07:00:00.000Z"
+    },
+    {
+      "title": "Karaoke Night",
+      "image": "https://image.freepik.com/free-vector/group-people-singing-karaoke_23-2148861270.jpg",
+      "categoryIds": [
+        3
+      ],
+      "description": "Sing your heart out with your friends.",
+      "location": "Amsterdam",
+      "startTime": "2023-12-14T16:34:00.000Z",
+      "endTime": "2023-12-22T16:35:00.000Z",
+      "id": 5
+    },
+    {
+      "title": "Sheep hugging",
+      "image": "https://image.freepik.com/free-photo/group-people-cooking-together_53876-64828.jpg",
+      "categoryIds": [
+        3
+      ],
+      "description": "Test Delete Event",
+      "location": "Nederland.",
+      "startTime": "2023-12-13T10:37",
+      "endTime": "2023-12-14T10:37",
+      "id": 6
+    },
+    {
+      "title": "A waking holiday.",
+      "image": "https://th.bing.com/th/id/R.c88101f99eca0b7f2b900c17359c6fe5?rik=L%2fB0qYxSeV1X%2bw&riu=http%3a%2f%2fimages.unsplash.com%2fphoto-1593217188322-6a547f02ddb5%3fcrop%3dentropy%26cs%3dtinysrgb%26fit%3dmax%26fm%3djpg%26ixid%3dMnwxMjA3fDB8MXxzZWFyY2h8NHx8Zm9yd2FyZHx8MHx8fHwxNjI5MjQ5NzI5%26ixlib%3drb-1.2.1%26q%3d80%26w%3d1080&ehk=cjXFjlQQNT2gX3zeIW%2b8keGX7fbmhPSme3elJVaEn04%3d&risl=&pid=ImgRaw&r=0",
+      "categoryIds": [
+        1
+      ],
+      "description": "To tackle Mother Nature head on.",
+      "location": "Amsterdam",
+      "startTime": "2023-12-20T21:27",
+      "endTime": "2023-12-22T21:27",
+      "id": 7
+    },
+    {
+      "title": "Meditation Class",
+      "image": "https://cdn-az.allevents.in/events10/banners/7de7631f5b6f05c908bc16766875c55147138a71dd2ab9ff5768d4c9956560e4-rimg-w1200-h900-gmir.jpg?v=1601310700",
+      "categoryIds": [
+        3
+      ],
+      "description": "Relaxation Class in New Setting",
+      "location": "Amsterdam",
+      "startTime": "2023-12-14T08:47",
+      "endTime": "2023-12-15T08:48",
+      "id": 8
+    },
+    {
+      "title": "Test.",
+      "image": "https://www.coastalcrafter.com/wp-content/uploads/2019/02/test-event.png",
+      "categoryIds": [
+        1
+      ],
+      "description": "To Test Edit Event.",
+      "location": "Voorthuizen.",
+      "startTime": "2023-12-14T12:25",
+      "endTime": "2023-12-14T12:25",
+      "id": 9
+    },
+    {
+      "title": "A waking holiday",
+      "image": "https://webunwto.s3.eu-west-1.amazonaws.com/2020-01/sport-congresse.jpg",
+      "categoryIds": [
+        1
+      ],
+      "description": "To tackle Mother Nature head on.",
+      "location": "Amsterdam",
+      "startTime": "2023-12-21T05:53",
+      "endTime": "2023-12-21T05:53",
+      "id": 10
+    },
+    {
+      "title": "Online RPG Games",
+      "image": "https://th.bing.com/th/id/OIP.MdVU-ZSSGr7Ge11-XthgzQHaE8?rs=1&pid=ImgDetMain",
+      "categoryIds": [
+        2
+      ],
+      "description": "Online Gaming Toutnaments with Cash & Pizes.",
+      "location": "Esports News UK",
+      "startTime": "2024-02-20T10:49:00.000Z",
+      "endTime": "2024-02-23T10:49:00.000Z",
+      "id": 11
+    }
+  ],
+  "categories": [
+    {
+      "name": "sports",
+      "id": 1
+    },
+    {
+      "name": "games",
+      "id": 2
+    },
+    {
+      "name": "relaxation",
+      "id": 3
+    }
+  ]
+}
